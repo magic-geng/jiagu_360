@@ -1,0 +1,13 @@
+.vscode/
+360jiagu/jiagu.db
+360jiagu/jiagu.jar
+360jiagu/login
+360jiagu/sign.keystore
+360jiagu/build/
+360jiagu/java/
+360jiagu/custom_sign/debug/*.apk
+360jiagu/custom_sign/emum/*.apk
+360jiagu/custom_sign/release/*.apk
+360jiagu/log/
+360jiagu/oapk/
+360jiagu/.cache/
